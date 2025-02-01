@@ -1,5 +1,6 @@
-#Author : Vishal Bhamare || TheCodeCraftsmen
+#Author: Vishal Bhamare || TheCodeCraftsmen
 
+#DEMO: https://the-codinghouse.github.io/Vue-3-Template-Pack/#
 # Vue 3 Template Pack
 
 A starter template pack for Vue 3 applications, with components for a **responsive navbar**, **cookie popup**, and **modal dialog**. This pack includes all necessary configurations for Vue 3, TypeScript, Vite, and Tailwind CSS.
